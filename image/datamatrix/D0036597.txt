@@ -1,0 +1,31 @@
+{
+  "BarcodeFormat": 134217728,
+  "BarcodeFormatString": "DATAMATRIX",
+  "BarcodeFormat_2": 0,
+  "BarcodeFormatString_2": "No Barcode Format in group 2",
+  "BarcodeText": "D0036597",
+  "BarcodeBytes": "0x4430303336353937",
+  "LocalizationResult": {
+    "TerminatePhase": 32,
+    "BarcodeFormat": 134217728,
+    "BarcodeFormatString": "DATAMATRIX",
+    "BarcodeFormat_2": 0,
+    "BarcodeFormatString_2": "No Barcode Format in group 2",
+    "Angle": 0,
+    "ResultPoints": [
+      "12, 12",
+      "85, 12",
+      "85, 86",
+      "12, 86"
+    ],
+    "ModuleSize": 26,
+    "PageNumber": 0,
+    "RegionName": "",
+    "DocumentName": null,
+    "ResultCoordinateType": 2,
+    "Confidence": 99
+  },
+  "Exception": null,
+  "IsDPM": 0,
+  "IsMirrored": 0
+}
